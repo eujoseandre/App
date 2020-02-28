@@ -1,0 +1,12 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:eujoseandre/App.git",
+  "author": "Jose Andre <eujoseandre@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.8.6"
+  }
+}
